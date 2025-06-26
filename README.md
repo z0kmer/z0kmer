@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @z0kmer (ak Vitalii)
 - 👀 I’m interested in getting knowledge.
-- 🌱 I’m currently learning Java & some around it.
+- 🌱 I’m currently learning Java, React, JS, SQL, AWS, PG & some around it.
 - 💞️ I'm looking for programming collaboration
 - 📫 How to reach me? e-mail: cyberelf31@gmail.com
 - ⚡ Fun fact: The founder of the strongest karate is not Japanese. Like the blue-eyed samurai.
